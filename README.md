@@ -35,6 +35,10 @@ If you don't want to source the PCBs and components yourself, you can also buy a
 ### Manual
 You can find the manual and pictures of every build step here: [https://github.com/Binary-Kitchen/SolderingTutorial/tree/master/OpenDTU_Breakout](https://github.com/Binary-Kitchen/SolderingTutorial/tree/master/OpenDTU_Breakout)
 
+## Case
+
+You cand find the Case here: [https://www.printables.com/de/model/441037-opendtu-breakoutboard-case](https://www.printables.com/de/model/441037-opendtu-breakoutboard-case)
+
 ### Copyright and Authorship
 
 - Board: [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) - Noby, Jan and Timo @ [blinkyparts.com](https://shop.blinkyparts.com)
